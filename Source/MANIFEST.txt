@@ -1,2 +1,0 @@
-id	filename	md5	size	state
-fcdae17f-c985-4f39-89e9-a5aebbd32598	fcdae17f-c985-4f39-89e9-a5aebbd32598/TCGA-22-4593-11A-01-BS1.c2e5e220-c57c-481f-8d8f-cc5dd01b38b9.svs	082fa6138131f0a03a28811302757555	20853941	validated
