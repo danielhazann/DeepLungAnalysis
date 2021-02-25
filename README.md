@@ -1,2 +1,2 @@
 # DeepLungAnalysis
-Deep Learning Project - Breast Cancer
+Deep Learning Project - Lung Cancer Analysis
